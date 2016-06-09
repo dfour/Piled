@@ -1,9 +1,8 @@
 # README #
 
-### What is this repository for? ###
+Version 0.1.0
 
-* This is my image padder for pading tilesheets for use in tiled.
-* 0.1.0
+This is my image padder for pading tilesheets for use in tiled.
 
 ### How do I get set up? ###
 
